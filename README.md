@@ -19,7 +19,7 @@ The program demonstrates how to use Turtle for creative coding, including pen mo
 ```
 project-root/
 │
-├── cool_triangle.py        # Main Python script
+├── Tri.py        # Main Python script
 └── README.md               # Documentation
 
 ```
@@ -29,7 +29,7 @@ project-root/
 1. Ensure you have **Python 3.x** installed.
 2. Run the script:
    ```bash
-   python cool_triangle.py
+   python Tri.py
 
 ---
 
